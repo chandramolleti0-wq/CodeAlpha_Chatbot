@@ -6,6 +6,7 @@ This is a simple rule-based chatbot built using Python.
 - Responds to basic user inputs
 - Uses if-else conditions
 - Runs in terminal
+- Performs basic mathematical calculations
 
 ## Technologies Used
 - Python
